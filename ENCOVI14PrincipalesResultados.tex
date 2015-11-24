@@ -1,0 +1,31 @@
+\input{Carta3.tex}
+\renewcommand{\partes}{No por favor}
+\renewcommand{\titulodoc}{ENCOVI 2014 Principales resultados}
+
+
+
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+\begin{document}
+	\includepdf{portada.pdf}
+	\newpage
+	\input{participantes.tex}
+
+	\tableofcontents
+	\pagestyle{estandar}
+	\setcounter{page}{0}
+	
+
+
+
+
+%\input{pobreza.tex} 
+\INEchaptercarta{Desigualdad}{}
+\input{encovi.tex} 
+%\input{odm.tex}  
+
+
+\includepdf{contraportada.pdf}
+
+
+
+\end{document}
