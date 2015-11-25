@@ -60,9 +60,9 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {2.16\hfil } Mujeres empleadas remuneradas en el sector no agrícola por área de residencia}{22}{section*.29}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.17\hfil } Mujeres empleadas remuneradas en el sector no agrícola en los departamentos}{23}{section*.30}
+\contentsline {section}{\hbox to\@tempdima {2.17\hfil } Mujeres empleadas remuneradas en el sector no agrícola}{23}{section*.30}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.18\hfil } Partos con asistencia de personal de salud }{23}{section*.31}
+\contentsline {section}{\hbox to\@tempdima {2.18\hfil } Partos con asistencia de personal de salud }{24}{section*.31}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {2.19\hfil } Partos con asistencia de personal de salud por área de residencia}{24}{section*.32}
 \thispagestyle {empty}

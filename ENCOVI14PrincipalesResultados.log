@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.9.17)  25 NOV 2015 11:20
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.9.17)  25 NOV 2015 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3394,7 +3394,10 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 208--208
 [][] 
  []
 
-(./3_17/descripcion.tex)
+(./3_17/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.12' on input line 1.
+Package hyperref Info: Anchor `Hfootnote.12' on input line 1.
+)
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 208--208
 []|[][][]| 
  []
@@ -3414,7 +3417,7 @@ Package hyperref Info: Anchor `section*.30' on input line 221.
 Package hyperref Info: bookmark on input line 221:
 (hyperref)             thecounter {2.17}
 (hyperref)             text {\numberline {\thesection } Mujeres empleadas remun
-eradas en el sector no agrícola en los departamentos}
+eradas en el sector no agrícola}
 (hyperref)             reference {section*.30}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
@@ -3423,15 +3426,26 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 221--221
 [][] 
  []
 
-(./3_18/tituloGrafica.tex) (./3_18/desGrafica.tex) (./graficas/3_18.tex)
-(./3_18/fuente.tex) (./3_18/descripcion.tex)
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 221--221
- []|[][][]| 
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+
  []
 
+(./3_18/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--221
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 221--221
-[][][]  
+ []
+
+(./3_18/tituloGrafica.tex) (./3_18/desGrafica.tex)
+File: graficas/3_30.pdf Graphic file (type QTm)
+ <use  "graficas/3_30.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 221--221
+ [][] 
+ []
+
+(./3_18/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+
  []
 
 
@@ -3465,43 +3479,14 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 234--234
 [][] 
  []
 
-(./3_19/descripcion.tex)
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 234--234
-[]|[][][]| 
- []
-
 (./3_19/tituloGrafica.tex) (./3_19/desGrafica.tex) (./graficas/3_19.tex)
-(./3_19/fuente.tex)
-Overfull \hbox (11.72424pt too wide) in paragraph at lines 234--234
-[][] 
- []
-
-
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 234--234
-[][][]  
- []
-
-Package hyperref Info: Anchor `section*.32' on input line 247.
-Package hyperref Info: bookmark on input line 247:
-(hyperref)             thecounter {2.19}
-(hyperref)             text {\numberline {\thesection } Partos con asistencia d
-e personal de salud por área de residencia}
-(hyperref)             reference {section*.32}
-(hyperref)             toclevel {1}
-(hyperref)             type {toc}.
-
-Overfull \hbox (1.90617pt too wide) in paragraph at lines 247--247
-[][] 
- []
-
-(./3_20/tituloGrafica.tex) (./3_20/desGrafica.tex) (./graficas/3_20.tex)
-(./3_20/fuente.tex) (./3_20/descripcion.tex)
-Overfull \hbox (4.51688pt too wide) in paragraph at lines 247--247
+(./3_19/fuente.tex) (./3_19/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 234--234
  []|[][][]| 
  []
 
 
-Overfull \hbox (1.37164pt too wide) in paragraph at lines 247--247
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 234--234
 [][][]  
  []
 
@@ -3521,8 +3506,37 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.23' on input line 260.
+Package hyperref Info: Anchor `page.23' on input line 247.
 [23]
+Package hyperref Info: Anchor `section*.32' on input line 247.
+Package hyperref Info: bookmark on input line 247:
+(hyperref)             thecounter {2.19}
+(hyperref)             text {\numberline {\thesection } Partos con asistencia d
+e personal de salud por área de residencia}
+(hyperref)             reference {section*.32}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 247--247
+[][] 
+ []
+
+(./3_20/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 247--247
+[]|[][][]| 
+ []
+
+(./3_20/tituloGrafica.tex) (./3_20/desGrafica.tex) (./graficas/3_20.tex)
+(./3_20/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 247--247
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 247--247
+[][][]  
+ []
+
 Package hyperref Info: Anchor `section*.33' on input line 260.
 Package hyperref Info: bookmark on input line 260:
 (hyperref)             thecounter {2.20}
@@ -3992,10 +4006,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 39960 strings out of 493734
- 806567 string characters out of 6146348
- 983942 words of memory out of 5000000
- 42153 multiletter control sequences out of 15000+600000
+ 39884 strings out of 493734
+ 805090 string characters out of 6146348
+ 973737 words of memory out of 5000000
+ 42080 multiletter control sequences out of 15000+600000
  17777 words of font info for 145 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  59i,22n,102p,10463b,1338s stack positions out of 5000i,500n,10000p,200000b,80000s
