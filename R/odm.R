@@ -33,7 +33,7 @@ exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_05.tex",g5)
 
 
 
-g7<- graficaLinea(ENC3$'3_07',rotar = "h", precision = 2) 
+g7<- graficaLinea(ENC3$'3_07',rotar = "h", precision = 1, final = 70, inicio = 50 ) 
 exportarLatex('/mnt/datos/GitHub/ResultadosEncovi/graficas/3_07.tex', g7)  
 
 g8<- graficaCol(ENC3$"3_08", ordenar = F)

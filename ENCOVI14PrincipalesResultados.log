@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.9.17)  25 NOV 2015 06:52
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.9.17)  25 NOV 2015 09:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2716,6 +2716,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
  []
 
 (./3_03/descripcion.tex)
+Underfull \hbox (badness 1005) in paragraph at lines 1--39
+[]\l_fontspec_font Los departamentos de Alta Verapaz (53.6%), Quiché (41.8%), C
+hiquimula (41.1%)y Totonicapán (41.1%), muestran los
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1--39
 
  []
@@ -2769,9 +2775,12 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 52--52
  []
 
 (./3_04/tituloGrafica.tex) (./3_04/desGrafica.tex) (./graficas/3_04.tex)
-(./3_04/fuente.tex) (./3_04/descripcion.tex)
-Underfull \hbox (badness 4872) in paragraph at lines 1--52
-[]\l_fontspec_font La participación de cada quintil en el
+(./3_04/fuente.tex) (./3_04/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.7' on input line 1.
+Package hyperref Info: Anchor `Hfootnote.7' on input line 1.
+)
+Underfull \hbox (badness 2846) in paragraph at lines 1--52
+[]\l_fontspec_font La participación de cada quintil[][][] en el
  []
 
 
@@ -2835,7 +2844,20 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 65--65
 [][] 
  []
 
-(./3_05/descripcion.tex)
+(./3_05/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.8' on input line 3.
+Package hyperref Info: Anchor `Hfootnote.8' on input line 3.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1--65
+
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 1--65
+\l_fontspec_font Mientras que en el área rural el quintil[][][]
+ []
+
+
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 65--65
 []|[][][]| 
  []
@@ -2866,6 +2888,21 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 78--78
 
 (./3_07/tituloGrafica.tex) (./3_07/desGrafica.tex) (./graficas/3_07.tex)
 (./3_07/fuente.tex) (./3_07/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--78
+
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 1--78
+\l_fontspec_font Entre 2000 y 2014, la relación entre em-
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 1--78
+\l_fontspec_font del 60%, variando de 62.7% en el 2000 a
+ []
+
+
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 78--78
  []|[][][]| 
  []
@@ -2945,6 +2982,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--104
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--104
+
+ []
+
 (./3_09/tituloGrafica.tex) (./3_09/desGrafica.tex)
 File: graficas/3_09.pdf Graphic file (type QTm)
  <use  "graficas/3_09.pdf" >
@@ -2989,7 +3031,30 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 117--117
  []
 
 (./3_10/tituloGrafica.tex) (./3_10/desGrafica.tex) (./graficas/3_10.tex)
-(./3_10/fuente.tex) (./3_10/descripcion.tex)
+(./3_10/fuente.tex) (./3_10/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.9' on input line 1.
+Package hyperref Info: Anchor `Hfootnote.9' on input line 1.
+)
+Underfull \hbox (badness 3514) in paragraph at lines 1--117
+\l_fontspec_font trabaja por cuenta propia, no posee una
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 1--117
+\l_fontspec_font de aguinaldo, bono 14, horas extras, etc.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--117
+
+ []
+
+
+Underfull \hbox (badness 4279) in paragraph at lines 1--117
+\l_fontspec_font Para 2014, poco más de la cuarta parte
+ []
+
+
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 117--117
  []|[][][]| 
  []
@@ -3030,7 +3095,10 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 130--130
 [][] 
  []
 
-(./3_11/descripcion.tex)
+(./3_11/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.10' on input line 1.
+Package hyperref Info: Anchor `Hfootnote.10' on input line 1.
+)
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 130--130
 []|[][][]| 
  []
@@ -3065,6 +3133,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--143
  []
 
 (./3_12/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--143
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1--143
 
  []
@@ -3113,7 +3186,15 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 156--156
  []
 
 (./3_13/tituloGrafica.tex) (./3_13/desGrafica.tex) (./graficas/3_13.tex)
-(./3_13/fuente.tex) (./3_13/descripcion.tex)
+(./3_13/fuente.tex) (./3_13/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.11' on input line 1.
+Package hyperref Info: Anchor `Hfootnote.11' on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1--156
+
+ []
+
+
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 156--156
  []|[][][]| 
  []
@@ -3155,6 +3236,26 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 169--169
  []
 
 (./3_14/descripcion.tex)
+Underfull \hbox (badness 5954) in paragraph at lines 1--169
+[]\l_fontspec_font Para 2014, la tasa de alfabetismo en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--169
+
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 1--169
+\l_fontspec_font Aunque la diferencia es poco más de 3
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 1--169
+\l_fontspec_font puntos porcentuales, el alfabetismo de los
+ []
+
+
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 169--169
 []|[][][]| 
  []
@@ -3238,6 +3339,21 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 195--195
 
 (./3_16/tituloGrafica.tex) (./3_16/desGrafica.tex) (./graficas/3_16.tex)
 (./3_16/fuente.tex) (./3_16/descripcion.tex)
+Underfull \hbox (badness 2088) in paragraph at lines 1--195
+\l_fontspec_font acceso de las mujeres a los mercados de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--195
+
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 1--195
+\l_fontspec_font La proporción de mujeres entre los em-
+ []
+
+
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 195--195
  []|[][][]| 
  []
@@ -3876,10 +3992,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 39949 strings out of 493734
- 806345 string characters out of 6146348
- 985289 words of memory out of 5000000
- 42142 multiletter control sequences out of 15000+600000
+ 39960 strings out of 493734
+ 806567 string characters out of 6146348
+ 983879 words of memory out of 5000000
+ 42153 multiletter control sequences out of 15000+600000
  17777 words of font info for 145 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  59i,22n,102p,10463b,1338s stack positions out of 5000i,500n,10000p,200000b,80000s
