@@ -26,7 +26,7 @@
 \contentsline {section}{\hbox to\@tempdima {1.11\hfil } Desigualdad en los departamentos según el índice de Theil}{10}{section*.12}
 \thispagestyle {empty}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {2\hfil }Desarrollo}{11}{section*.13}
+\contentsline {chapter}{\hbox to\@tempdima {2\hfil }Objetivos de Desarrollo del Milenio}{11}{section*.13}
 \color {black}\vskip 0.2\baselineskip \relax 
 \contentsline {section}{\hbox to\@tempdima {2.1\hfil } Población con gastos inferiores a la línea de pobreza extrema}{13}{section*.14}
 \thispagestyle {empty}

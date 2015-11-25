@@ -9,15 +9,15 @@ escribirCSV(lista = odmCSV, ruta = '/mnt/datos/GitHub/ResultadosEncovi/CSV/3/')
 anual()
 ENC3<- cargaMasiva("/mnt/datos/GitHub/ResultadosEncovi/CSV/3")
 
-g1<- graficaLinea(ENC3$'3_01',rotar = "h", precision = 2) 
+g1<- graficaLinea(ENC3$'3_01',rotar = "h", precision = 1, final = 28, inicio = 0) 
 exportarLatex('/mnt/datos/GitHub/ResultadosEncovi/graficas/3_01.tex', g1)  
 
-g2<- graficaCol(ENC3$"3_02")
+g2<- graficaCol(ENC3$"3_02", ordenar = F)
 g2 <- etiquetasHorizontales(g2)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_02.tex", g2)
 
-g4<- graficaLinea(ENC3$'3_04',rotar = "h", precision = 2) 
-exportarLatex('/mnt/datos/GitHub/ResultadosEncovi/graficas/3_04.tex', g1)  
+g4<- graficaLinea(ENC3$'3_04',rotar = "h", precision = 1, inicio= 1, final = 8) 
+exportarLatex('/mnt/datos/GitHub/ResultadosEncovi/graficas/3_04.tex', g4)  
 
 g5 <- graficaCol(ENC3$"3_05")
 g5 <- etiquetasHorizontales(g2)
