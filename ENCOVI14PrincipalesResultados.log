@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  24 NOV 2015 22:28
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  24 NOV 2015 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1949,78 +1949,751 @@ Package hyperref Info: Anchor `page.6' on input line 109.
  [6
 
 
-]) (./ENCOVI14PrincipalesResultados.toc)
+]) (./ENCOVI14PrincipalesResultados.toc
+Package hyperref Info: Reference (link) `section*.1' on input line 4.
+Package hyperref Info: Reference (link) `section*.2' on input line 6.
+Package hyperref Info: Reference (link) `section*.3' on input line 8.
+Package hyperref Info: Reference (link) `section*.4' on input line 10.
+Package hyperref Info: Reference (link) `section*.5' on input line 12.
+Package hyperref Info: Reference (link) `section*.6' on input line 14.
+Package hyperref Info: Reference (link) `section*.7' on input line 16.
+Package hyperref Info: Reference (link) `section*.8' on input line 18.
+Package hyperref Info: Reference (link) `section*.9' on input line 20.
+Package hyperref Info: Reference (link) `section*.10' on input line 22.
+Package hyperref Info: Reference (link) `section*.11' on input line 24.
+Package hyperref Info: Reference (link) `section*.12' on input line 26.
+Package hyperref Info: Reference (link) `section*.13' on input line 29.
+Package hyperref Info: Reference (link) `section*.14' on input line 31.
+Package hyperref Info: Reference (link) `section*.15' on input line 33.
+Package hyperref Info: Reference (link) `section*.16' on input line 35.
+Package hyperref Info: Reference (link) `section*.17' on input line 37.
+Package hyperref Info: Reference (link) `section*.18' on input line 39.
+Package hyperref Info: Reference (link) `section*.19' on input line 41.
+Package hyperref Info: Reference (link) `section*.20' on input line 43.
+Package hyperref Info: Reference (link) `section*.21' on input line 45.
+Package hyperref Info: Reference (link) `section*.22' on input line 47.
+Package hyperref Info: Reference (link) `section*.23' on input line 49.
+Package hyperref Info: Reference (link) `section*.24' on input line 51.
+Package hyperref Info: Reference (link) `section*.25' on input line 53.
+Package hyperref Info: Reference (link) `section*.26' on input line 55.
+Package hyperref Info: Reference (link) `section*.27' on input line 57.
+Package hyperref Info: Reference (link) `section*.28' on input line 59.
+Package hyperref Info: Reference (link) `section*.29' on input line 61.
+Package hyperref Info: Reference (link) `section*.30' on input line 63.
+Package hyperref Info: Reference (link) `section*.31' on input line 65.
+Package hyperref Info: Reference (link) `section*.32' on input line 67.
+Package hyperref Info: Reference (link) `section*.33' on input line 69.
+Package hyperref Info: Reference (link) `section*.34' on input line 71.
+Package hyperref Info: Reference (link) `section*.35' on input line 73.
+Package hyperref Info: Reference (link) `section*.36' on input line 75.
+Package hyperref Info: Reference (link) `section*.37' on input line 77.
+Package hyperref Info: Reference (link) `section*.38' on input line 79.
+Package hyperref Info: Reference (link) `section*.39' on input line 81.
+Package hyperref Info: Reference (link) `section*.40' on input line 83.
+Package hyperref Info: Reference (link) `section*.41' on input line 85.
+Package hyperref Info: Anchor `page.7' on input line 87.
+ [7]
+Package hyperref Info: Reference (link) `section*.42' on input line 87.
+)
 \tf@toc=\write7
 \openout7 = `ENCOVI14PrincipalesResultados.toc'.
 
-Package hyperref Info: Anchor `page.0' on input line 22.
+Package hyperref Info: Anchor `page.0' on input line 24.
  [0]
-Package hyperref Info: Anchor `section*.1' on input line 22.
-Package hyperref Info: bookmark on input line 22:
+Package hyperref Info: Anchor `section*.1' on input line 24.
+Package hyperref Info: bookmark on input line 24:
 (hyperref)             thecounter {1}
 (hyperref)             text {\numberline {\thechapter }Desigualdad}
 (hyperref)             reference {section*.1}
 (hyperref)             toclevel {0}
 (hyperref)             type {toc}.
-LaTeX Font Info:    Calculating math sizes for size <28.90755> on input line 22
+LaTeX Font Info:    Calculating math sizes for size <28.90755> on input line 24
 .
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <28.90755> not available
-(Font)              size <24.88> substituted on input line 22.
+(Font)              size <24.88> substituted on input line 24.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20.23518> not available
-(Font)              size <20.74> substituted on input line 22.
+(Font)              size <20.74> substituted on input line 24.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <28.90755> not available
-(Font)              size <24.88> substituted on input line 22.
+(Font)              size <24.88> substituted on input line 24.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <20.23518> not available
-(Font)              size <20.74> substituted on input line 22.
+(Font)              size <20.74> substituted on input line 24.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <28.90755> not available
-(Font)              size <24.88> substituted on input line 22.
+(Font)              size <24.88> substituted on input line 24.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20.23518> not available
-(Font)              size <20.74> substituted on input line 22.
+(Font)              size <20.74> substituted on input line 24.
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 22--22
+Overfull \hbox (12.0pt too wide) in paragraph at lines 24--24
 []|[]| 
  []
 
 File: fondo-capitulo-no-descripcion.pdf Graphic file (type QTm)
 <use  "fondo-capitulo-no-descripcion.pdf" >
-Overfull \hbox (49.32869pt too wide) in paragraph at lines 22--22
+Overfull \hbox (49.32869pt too wide) in paragraph at lines 24--24
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
 
  []
 
-Package hyperref Info: Anchor `page.1' on input line 22.
+Package hyperref Info: Anchor `page.1' on input line 24.
 [1
 
 
 ]
-Package hyperref Info: Anchor `page.2' on input line 22.
+Package hyperref Info: Anchor `page.2' on input line 24.
  [2
 
 
-] (./encovi.tex
+] (./desigualdad.tex
 Package hyperref Info: Anchor `section*.2' on input line 13.
 Package hyperref Info: bookmark on input line 13:
 (hyperref)             thecounter {1.1}
+(hyperref)             text {\numberline {\thesection } Desigualdad según el co
+eficiente de Gini}
+(hyperref)             reference {section*.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 13--13
+[][] 
+ []
+
+(./2_01/tituloGrafica.tex) (./2_01/desGrafica.tex) (./graficas/2_01.tex)
+(./2_01/fuente.tex) (./2_01/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 13--13
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 13--13
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.3' on input line 26.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 26.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\varepsilon' on input line 26.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 26.
+
+Package hyperref Info: bookmark on input line 26:
+(hyperref)             thecounter {1.2}
+(hyperref)             text {\numberline {\thesection } Desigualdad según el ín
+dice de Atkinson con $\varepsilon =1$}
+(hyperref)             reference {section*.3}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 26--26
+[][] 
+ []
+
+(./2_02/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 26--26
+[]|[]| 
+ []
+
+(./2_02/tituloGrafica.tex) (./2_02/desGrafica.tex) (./graficas/2_02.tex)
+(./2_02/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 26--26
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 26--26
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.4' on input line 39.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\varepsilon' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 39.
+
+Package hyperref Info: bookmark on input line 39:
+(hyperref)             thecounter {1.3}
+(hyperref)             text {\numberline {\thesection } Desigualdad según el ín
+dice de Atkinson con $\varepsilon =2$}
+(hyperref)             reference {section*.4}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 39--39
+[][] 
+ []
+
+(./2_03/tituloGrafica.tex) (./2_03/desGrafica.tex) (./graficas/2_03.tex)
+(./2_03/fuente.tex) (./2_03/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--39
+
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 1--39
+\EU1/OpenSans-CondLight.ttf(0)/m/n/10.95 Entre 2006 y 2011, el índice de Atkins
+on
+ []
+
+
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 39--39
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 39--39
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.3' on input line 52.
+[3]
+Package hyperref Info: Anchor `section*.5' on input line 52.
+Package hyperref Info: bookmark on input line 52:
+(hyperref)             thecounter {1.4}
+(hyperref)             text {\numberline {\thesection } Desigualdad según el ín
+dice de Theil}
+(hyperref)             reference {section*.5}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 52--52
+[][] 
+ []
+
+(./2_04/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.1' on input line 2.
+Package hyperref Info: Anchor `Hfootnote.1' on input line 2.
+)
+Underfull \hbox (badness 4608) in paragraph at lines 1--52
+\EU1/OpenSans-CondLight.ttf(0)/m/n/10.95 de los índices de desigualdad anterior
+es,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--52
+\EU1/OpenSans-CondLight.ttf(0)/m/n/10.95 Esto es consistente con los resultados
+
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 1--52
+\EU1/OpenSans-CondLight.ttf(0)/m/n/10.95 Asimismo, para el 2014, se obtiene una
+
+ []
+
+
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 52--52
+[]|[]| 
+ []
+
+(./2_04/tituloGrafica.tex) (./2_04/desGrafica.tex) (./graficas/2_04.tex)
+(./2_04/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 52--52
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 52--52
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.6' on input line 65.
+Package hyperref Info: bookmark on input line 65:
+(hyperref)             thecounter {1.5}
+(hyperref)             text {\numberline {\thesection } Participación del quint
+il más bajo}
+(hyperref)             reference {section*.6}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 65--65
+[][] 
+ []
+
+(./2_05/tituloGrafica.tex) (./2_05/desGrafica.tex) (./graficas/2_05.tex)
+(./2_05/fuente.tex) (./2_05/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 65--65
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 65--65
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.4' on input line 78.
+[4]
+Package hyperref Info: Anchor `section*.7' on input line 78.
+Package hyperref Info: bookmark on input line 78:
+(hyperref)             thecounter {1.6}
+(hyperref)             text {\numberline {\thesection } Participación del quint
+il más alto}
+(hyperref)             reference {section*.7}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 78--78
+[][] 
+ []
+
+(./2_06/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--78
+\EU1/OpenSans-CondLight.ttf(0)/m/n/10.95 Al comparar con los resultados para
+ []
+
+
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 78--78
+[]|[]| 
+ []
+
+(./2_06/tituloGrafica.tex) (./2_06/desGrafica.tex) (./graficas/2_06.tex)
+(./2_06/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 78--78
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 78--78
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.8' on input line 91.
+Package hyperref Info: bookmark on input line 91:
+(hyperref)             thecounter {1.7}
+(hyperref)             text {\numberline {\thesection } Relación de ingresos de
+l quintil más alto y más bajo}
+(hyperref)             reference {section*.8}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 91--91
+[][] 
+ []
+
+(./2_07/tituloGrafica.tex) (./2_07/desGrafica.tex) (./graficas/2_07.tex)
+(./2_07/fuente.tex) (./2_07/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--91
+
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 1--91
+\EU1/OpenSans-CondLight.ttf(0)/m/n/10.95 En general, los resultados muestran un
+a
+ []
+
+
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 91--91
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 91--91
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.5' on input line 104.
+[5]
+Package hyperref Info: Anchor `section*.9' on input line 104.
+Package hyperref Info: bookmark on input line 104:
+(hyperref)             thecounter {1.8}
+(hyperref)             text {\numberline {\thesection } Desigualdad en los depa
+rtamentos según el coeficiente de Gini }
+(hyperref)             reference {section*.9}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 104--104
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+
+ []
+
+(./2_08/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.2' on input line 1.
+Package hyperref Info: Anchor `Hfootnote.2' on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1--104
+
+ []
+
+(./2_08/tituloGrafica.tex) (./2_08/desGrafica.tex)
+File: graficas/2_08.pdf Graphic file (type QTm)
+ <use  "graficas/2_08.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 104--104
+ [][] 
+ []
+
+(./2_08/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.6' on input line 117.
+[6]
+Package hyperref Info: Anchor `section*.10' on input line 117.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 117.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\varepsilon' on input line 117.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 117.
+
+Package hyperref Info: bookmark on input line 117:
+(hyperref)             thecounter {1.9}
+(hyperref)             text {\numberline {\thesection } Desigualdad en los depa
+rtamentos según el índice de Atkinson con $\varepsilon = 1$}
+(hyperref)             reference {section*.10}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 117--117
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+
+ []
+
+(./2_09/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.3' on input line 1.
+Package hyperref Info: Anchor `Hfootnote.3' on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--117
+
+ []
+
+(./2_09/tituloGrafica.tex) (./2_09/desGrafica.tex)
+File: graficas/2_09.pdf Graphic file (type QTm)
+ <use  "graficas/2_09.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 117--117
+ [][] 
+ []
+
+(./2_09/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.7' on input line 130.
+[7]
+Package hyperref Info: Anchor `section*.11' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\varepsilon' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 130.
+
+Package hyperref Info: bookmark on input line 130:
+(hyperref)             thecounter {1.10}
+(hyperref)             text {\numberline {\thesection } Desigualdad en los depa
+rtamentos según el índice de Atkinson con $\varepsilon = 2$}
+(hyperref)             reference {section*.11}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 130--130
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+
+ []
+
+(./2_10/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--130
+
+ []
+
+(./2_10/tituloGrafica.tex) (./2_10/desGrafica.tex)
+File: graficas/2_10.pdf Graphic file (type QTm)
+ <use  "graficas/2_10.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 130--130
+ [][] 
+ []
+
+(./2_10/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.8' on input line 143.
+[8]
+Package hyperref Info: Anchor `section*.12' on input line 143.
+Package hyperref Info: bookmark on input line 143:
+(hyperref)             thecounter {1.11}
+(hyperref)             text {\numberline {\thesection } Desigualdad en los depa
+rtamentos según el índice de Theil}
+(hyperref)             reference {section*.12}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 143--143
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+
+ []
+
+(./2_11/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.4' on input line 1.
+Package hyperref Info: Anchor `Hfootnote.4' on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--143
+
+ []
+
+(./2_11/tituloGrafica.tex) (./2_11/desGrafica.tex)
+File: graficas/2_11.pdf Graphic file (type QTm)
+ <use  "graficas/2_11.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 143--143
+ [][] 
+ []
+
+(./2_11/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.9' on input line 26.
+[9]
+File: topeven3.pdf Graphic file (type QTm)
+ <use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.10' on input line 26.
+[10]
+Package hyperref Info: Anchor `section*.13' on input line 26.
+Package hyperref Info: bookmark on input line 26:
+(hyperref)             thecounter {2}
+(hyperref)             text {\numberline {\thechapter }Desarrollo}
+(hyperref)             reference {section*.13}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 26--26
+[]|[]| 
+ []
+
+File: fondo-capitulo-no-descripcion.pdf Graphic file (type QTm)
+<use  "fondo-capitulo-no-descripcion.pdf" >
+Overfull \hbox (49.32869pt too wide) in paragraph at lines 26--26
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+
+ []
+
+Package hyperref Info: Anchor `page.11' on input line 26.
+[11
+
+
+]
+Package hyperref Info: Anchor `page.12' on input line 26.
+ [12
+
+
+] (./encovi.tex
+Package hyperref Info: Anchor `section*.14' on input line 13.
+Package hyperref Info: bookmark on input line 13:
+(hyperref)             thecounter {2.1}
 (hyperref)             text {\numberline {\thesection } Población con gastos in
 feriores a la línea de pobreza extrema}
-(hyperref)             reference {section*.2}
+(hyperref)             reference {section*.14}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
@@ -2039,12 +2712,12 @@ Overfull \hbox (1.37164pt too wide) in paragraph at lines 13--13
 []  
  []
 
-Package hyperref Info: Anchor `section*.3' on input line 26.
+Package hyperref Info: Anchor `section*.15' on input line 26.
 Package hyperref Info: bookmark on input line 26:
-(hyperref)             thecounter {1.2}
+(hyperref)             thecounter {2.2}
 (hyperref)             text {\numberline {\thesection } Población con gastos in
 feriores a la línea de pobreza extrema por área de residencia}
-(hyperref)             reference {section*.3}
+(hyperref)             reference {section*.15}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
@@ -2057,351 +2730,8 @@ Overfull \hbox (4.51688pt too wide) in paragraph at lines 26--26
 []|[]| 
  []
 
-(./3_02/tituloGrafica.tex) (./3_02/desGrafica.tex) (./graficas/3_02.tex
-! Missing number, treated as zero.
-<to be read again> 
-                   N
-l.90 }
-      
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \edef 
-l.90 }
-      
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-<argument> \@@scl 
-                  
-l.90 }
-      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \@cclv 
-l.90 }
-      
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-)
-Runaway argument?
- outer sep=0pt,text width=1.33333333333333in,midway,right,scale = 0.9\ETC.
-! File ended while scanning use of \XC@calc@.
-<inserted text> 
-                \par 
-l.26  \input{3_02/fuente.tex}}
-                               %
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-! Extra }, or forgotten \endgroup.
-\endpgfpicture ...globally \endgroup \hss \egroup 
-                                                  \pgf@restore@layerlist@fro...
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten \endgroup.
-\endpgfpicture ...dpicture \endgroup \hss \egroup 
-                                                  \pgfsys@typesetpicturebox ...
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26  \input{3_02/fuente.tex}}
-                               %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26  \input{3_02/fuente.tex}}
-                               %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26  \input{3_02/fuente.tex}}
-                               %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26  \input{3_02/fuente.tex}}
-                               %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (2.74463pt too wide) detected at line 26
-[][][][][] $ $
- []
-
+(./3_02/tituloGrafica.tex) (./3_02/desGrafica.tex) (./graficas/3_02.tex)
 (./3_02/fuente.tex)
-
-! LaTeX Error: \begin{tikzpicture} on input line 26 ended by \end{flushleft}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26  \input{3_02/fuente.tex}}
-                               %
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{tikzpicture} on input line 26 ended by \end{center}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26  \input{3_02/fuente.tex}}
-                               %
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra }, or forgotten \endgroup.
-\endminipage ...pagefalse \color@endgroup \egroup 
-                                                  \expandafter \@iiiparbox \...
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-! LaTeX Error: \begin{center} on input line 26 ended by \end{tcb@savebox}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26  \input{3_02/fuente.tex}}
-                               %
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{tcb@savebox} on input line 26 ended by \end{grafica-cajit
-a}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26  \input{3_02/fuente.tex}}
-                               %
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Extra }, or forgotten \endgroup.
-<recently read> \egroup 
-                        
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten \endgroup.
-<template> \unskip \relax \@endpbox \egroup 
-                                            \egroup \begingroup \CT@setup \C...
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten \endgroup.
-<template> ...ip \relax \@endpbox \egroup \egroup 
-                                                  \begingroup \CT@setup \CT@...
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.26  \input{3_02/fuente.tex}}
-                               %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
 Overfull \hbox (11.72424pt too wide) in paragraph at lines 26--26
 [][] 
  []
@@ -2411,12 +2741,12 @@ Overfull \hbox (1.37164pt too wide) in paragraph at lines 26--26
 []  
  []
 
-Package hyperref Info: Anchor `section*.4' on input line 39.
+Package hyperref Info: Anchor `section*.16' on input line 39.
 Package hyperref Info: bookmark on input line 39:
-(hyperref)             thecounter {1.3}
+(hyperref)             thecounter {2.3}
 (hyperref)             text {\numberline {\thesection } Población con gastos in
 feriores a la línea de pobreza extrema en los departamentos}
-(hyperref)             reference {section*.4}
+(hyperref)             reference {section*.16}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
@@ -2435,41 +2765,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--39
  []
 
 (./3_03/tituloGrafica.tex) (./3_03/desGrafica.tex)
-
-LaTeX Warning: File `graficas/3_03.pdf' not found on input line 39.
-
-! Unable to load picture or PDF file 'graficas/3_03.pdf'.
-<to be read again> 
-                   }
-l.39  \input{3_03/fuente.tex}}
-                               %
-The requested image couldn't be read because
-it was not a recognized image format.
-
-
-! Package graphics Error: Division by 0.
-
-See the graphics package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39  \input{3_03/fuente.tex}}
-                               %
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 File: graficas/3_03.pdf Graphic file (type QTm)
-<use  "graficas/3_03.pdf" >
-! Unable to load picture or PDF file 'graficas/3_03.pdf'.
-<to be read again> 
-                   \GXT@clipend 
-l.39  \input{3_03/fuente.tex}}
-                               %
-The requested image couldn't be read because
-it was not a recognized image format.
-
-
+ <use  "graficas/3_03.pdf" >
 Overfull \hbox (2.69052pt too wide) in paragraph at lines 39--39
  [][] 
  []
@@ -2495,14 +2792,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.3' on input line 52.
-[3]
-Package hyperref Info: Anchor `section*.5' on input line 52.
+Package hyperref Info: Anchor `page.13' on input line 52.
+[13]
+Package hyperref Info: Anchor `section*.17' on input line 52.
 Package hyperref Info: bookmark on input line 52:
-(hyperref)             thecounter {1.4}
+(hyperref)             thecounter {2.4}
 (hyperref)             text {\numberline {\thesection } Consumo Nacional de la 
 quinta parte de la población más pobre}
-(hyperref)             reference {section*.5}
+(hyperref)             reference {section*.17}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
@@ -2510,28 +2807,1095 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 52--52
 [][] 
  []
 
-(./3_04/tituloGrafica.tex) (./3_04/desGrafica.tex)
+(./3_04/tituloGrafica.tex) (./3_04/desGrafica.tex) (./graficas/3_04.tex)
+(./3_04/fuente.tex) (./3_04/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 52--52
+ []|[]| 
+ []
 
-! LaTeX Error: File `graficas/3_04.tex' not found.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 52--52
+[]  
+ []
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.52  \input{3_04/fuente.tex}}
-                               %^^M
-*** (cannot \read from terminal in nonstop modes)
 
- 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.14' on input line 65.
+[14]
+Package hyperref Info: Anchor `section*.18' on input line 65.
+Package hyperref Info: bookmark on input line 65:
+(hyperref)             thecounter {2.5}
+(hyperref)             text {\numberline {\thesection } Consumo Nacional del qu
+intil más pobre por área de residencia}
+(hyperref)             reference {section*.18}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 65--65
+[][] 
+ []
+
+(./3_05/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 65--65
+[]|[]| 
+ []
+
+(./3_05/tituloGrafica.tex) (./3_05/desGrafica.tex) (./graficas/3_05.tex)
+(./3_05/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 65--65
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 65--65
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.19' on input line 78.
+Package hyperref Info: bookmark on input line 78:
+(hyperref)             thecounter {2.6}
+(hyperref)             text {\numberline {\thesection } Empleo pleno y producti
+vo}
+(hyperref)             reference {section*.19}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 78--78
+[][] 
+ []
+
+(./3_07/tituloGrafica.tex) (./3_07/desGrafica.tex) (./graficas/3_07.tex)
+(./3_07/fuente.tex) (./3_07/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 78--78
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 78--78
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.15' on input line 91.
+[15]
+Package hyperref Info: Anchor `section*.20' on input line 91.
+Package hyperref Info: bookmark on input line 91:
+(hyperref)             thecounter {2.7}
+(hyperref)             text {\numberline {\thesection } Empleo pleno y producti
+vo por área de residencia}
+(hyperref)             reference {section*.20}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 91--91
+[][] 
+ []
+
+(./3_08/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 91--91
+[]|[]| 
+ []
+
+(./3_08/tituloGrafica.tex) (./3_08/desGrafica.tex) (./graficas/3_08.tex)
+(./3_08/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 91--91
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 91--91
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.21' on input line 104.
+Package hyperref Info: bookmark on input line 104:
+(hyperref)             thecounter {2.8}
+(hyperref)             text {\numberline {\thesection } Empleo pleno y producti
+vo en los departamentos}
+(hyperref)             reference {section*.21}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 104--104
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+
+ []
+
+(./3_09/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--104
+
+ []
+
+(./3_09/tituloGrafica.tex) (./3_09/desGrafica.tex)
+File: graficas/3_09.pdf Graphic file (type QTm)
+ <use  "graficas/3_09.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 104--104
+ [][] 
+ []
+
+(./3_09/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.16' on input line 117.
+[16]
+Package hyperref Info: Anchor `section*.22' on input line 117.
+Package hyperref Info: bookmark on input line 117:
+(hyperref)             thecounter {2.9}
+(hyperref)             text {\numberline {\thesection } Población ocupada no as
+alariada}
+(hyperref)             reference {section*.22}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 117--117
+[][] 
+ []
+
+(./3_10/tituloGrafica.tex) (./3_10/desGrafica.tex) (./graficas/3_10.tex)
+(./3_10/fuente.tex) (./3_10/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 117--117
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 117--117
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.17' on input line 130.
+[17]
+Package hyperref Info: Anchor `section*.23' on input line 130.
+Package hyperref Info: bookmark on input line 130:
+(hyperref)             thecounter {2.10}
+(hyperref)             text {\numberline {\thesection } Población ocupada no as
+alariada por área de residencia}
+(hyperref)             reference {section*.23}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 130--130
+[][] 
+ []
+
+(./3_11/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 130--130
+[]|[]| 
+ []
+
+(./3_11/tituloGrafica.tex) (./3_11/desGrafica.tex) (./graficas/3_11.tex)
+(./3_11/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 130--130
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 130--130
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.24' on input line 143.
+Package hyperref Info: bookmark on input line 143:
+(hyperref)             thecounter {2.11}
+(hyperref)             text {\numberline {\thesection } Población ocupada no as
+alariada en los departamentos}
+(hyperref)             reference {section*.24}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 143--143
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+
+ []
+
+(./3_12/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--143
+
+ []
+
+(./3_12/tituloGrafica.tex) (./3_12/desGrafica.tex)
+File: graficas/3_12.pdf Graphic file (type QTm)
+ <use  "graficas/3_12.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 143--143
+ [][] 
+ []
+
+(./3_12/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.18' on input line 156.
+[18]
+Package hyperref Info: Anchor `section*.25' on input line 156.
+Package hyperref Info: bookmark on input line 156:
+(hyperref)             thecounter {2.12}
+(hyperref)             text {\numberline {\thesection } Alfabetismo en jóvenes}
+
+(hyperref)             reference {section*.25}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 156--156
+[][] 
+ []
+
+(./3_13/tituloGrafica.tex) (./3_13/desGrafica.tex) (./graficas/3_13.tex)
+(./3_13/fuente.tex) (./3_13/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 156--156
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 156--156
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.19' on input line 169.
+[19]
+Package hyperref Info: Anchor `section*.26' on input line 169.
+Package hyperref Info: bookmark on input line 169:
+(hyperref)             thecounter {2.13}
+(hyperref)             text {\numberline {\thesection } Alfabetismo en jóvenes 
+por área de residencia}
+(hyperref)             reference {section*.26}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 169--169
+[][] 
+ []
+
+(./3_14/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 169--169
+[]|[]| 
+ []
+
+(./3_14/tituloGrafica.tex) (./3_14/desGrafica.tex) (./graficas/3_14.tex)
+(./3_14/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 169--169
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 169--169
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.27' on input line 182.
+Package hyperref Info: bookmark on input line 182:
+(hyperref)             thecounter {2.14}
+(hyperref)             text {\numberline {\thesection } Alfabetismo en jóvenes 
+en los departamentos}
+(hyperref)             reference {section*.27}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 182--182
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+
+ []
+
+(./3_15/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--182
+
+ []
+
+(./3_15/tituloGrafica.tex) (./3_15/desGrafica.tex)
+File: graficas/3_15.pdf Graphic file (type QTm)
+ <use  "graficas/3_15.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 182--182
+ [][] 
+ []
+
+(./3_15/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.20' on input line 195.
+[20]
+Package hyperref Info: Anchor `section*.28' on input line 195.
+Package hyperref Info: bookmark on input line 195:
+(hyperref)             thecounter {2.15}
+(hyperref)             text {\numberline {\thesection } Mujeres empleadas remun
+eradas en el sector no agrícola}
+(hyperref)             reference {section*.28}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 195--195
+[][] 
+ []
+
+(./3_16/tituloGrafica.tex) (./3_16/desGrafica.tex) (./graficas/3_16.tex)
+(./3_16/fuente.tex) (./3_16/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 195--195
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 195--195
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.21' on input line 208.
+[21]
+Package hyperref Info: Anchor `section*.29' on input line 208.
+Package hyperref Info: bookmark on input line 208:
+(hyperref)             thecounter {2.16}
+(hyperref)             text {\numberline {\thesection } Mujeres empleadas remun
+eradas en el sector no agrícola por área de residencia}
+(hyperref)             reference {section*.29}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 208--208
+[][] 
+ []
+
+(./3_17/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 208--208
+[]|[]| 
+ []
+
+(./3_17/tituloGrafica.tex) (./3_17/desGrafica.tex) (./graficas/3_17.tex)
+(./3_17/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 208--208
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 208--208
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.30' on input line 221.
+Package hyperref Info: bookmark on input line 221:
+(hyperref)             thecounter {2.17}
+(hyperref)             text {\numberline {\thesection } Mujeres empleadas remun
+eradas en el sector no agrícola en los departamentos}
+(hyperref)             reference {section*.30}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 221--221
+[][] 
+ []
+
+(./3_18/tituloGrafica.tex) (./3_18/desGrafica.tex) (./graficas/3_18.tex)
+(./3_18/fuente.tex) (./3_18/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 221--221
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 221--221
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.22' on input line 234.
+[22]
+Package hyperref Info: Anchor `section*.31' on input line 234.
+Package hyperref Info: bookmark on input line 234:
+(hyperref)             thecounter {2.18}
+(hyperref)             text {\numberline {\thesection } Partos con asistencia d
+e personal de salud }
+(hyperref)             reference {section*.31}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 234--234
+[][] 
+ []
+
+(./3_19/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 234--234
+[]|[]| 
+ []
+
+(./3_19/tituloGrafica.tex) (./3_19/desGrafica.tex) (./graficas/3_19.tex)
+(./3_19/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 234--234
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 234--234
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.32' on input line 247.
+Package hyperref Info: bookmark on input line 247:
+(hyperref)             thecounter {2.19}
+(hyperref)             text {\numberline {\thesection } Partos con asistencia d
+e personal de salud por área de residencia}
+(hyperref)             reference {section*.32}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 247--247
+[][] 
+ []
+
+(./3_20/tituloGrafica.tex) (./3_20/desGrafica.tex) (./graficas/3_20.tex)
+(./3_20/fuente.tex) (./3_20/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 247--247
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 247--247
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.23' on input line 260.
+[23]
+Package hyperref Info: Anchor `section*.33' on input line 260.
+Package hyperref Info: bookmark on input line 260:
+(hyperref)             thecounter {2.20}
+(hyperref)             text {\numberline {\thesection } Partos con asistencia d
+e personal de salud en los departamentos}
+(hyperref)             reference {section*.33}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 260--260
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+
+ []
+
+(./3_21/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--260
+
+ []
+
+(./3_21/tituloGrafica.tex) (./3_21/desGrafica.tex)
+File: graficas/3_21.pdf Graphic file (type QTm)
+ <use  "graficas/3_21.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 260--260
+ [][] 
+ []
+
+(./3_21/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.24' on input line 273.
+[24]
+Package hyperref Info: Anchor `section*.34' on input line 273.
+Package hyperref Info: bookmark on input line 273:
+(hyperref)             thecounter {2.21}
+(hyperref)             text {\numberline {\thesection } Atención del parto en c
+entros públicos}
+(hyperref)             reference {section*.34}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 273--273
+[][] 
+ []
+
+(./3_22/tituloGrafica.tex) (./3_22/desGrafica.tex) (./graficas/3_22.tex)
+(./3_22/fuente.tex) (./3_22/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 273--273
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 273--273
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.25' on input line 286.
+[25]
+Package hyperref Info: Anchor `section*.35' on input line 286.
+Package hyperref Info: bookmark on input line 286:
+(hyperref)             thecounter {2.22}
+(hyperref)             text {\numberline {\thesection } Atención del parto en c
+entros públicos por área de residencia}
+(hyperref)             reference {section*.35}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 286--286
+[][] 
+ []
+
+(./3_23/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 286--286
+[]|[]| 
+ []
+
+(./3_23/tituloGrafica.tex) (./3_23/desGrafica.tex) (./graficas/3_23.tex)
+(./3_23/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 286--286
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 286--286
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.36' on input line 299.
+Package hyperref Info: bookmark on input line 299:
+(hyperref)             thecounter {2.23}
+(hyperref)             text {\numberline {\thesection } Atención del parto en c
+entros públicos en los departamentos}
+(hyperref)             reference {section*.36}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 299--299
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+
+ []
+
+(./3_24/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--299
+
+ []
+
+(./3_24/tituloGrafica.tex) (./3_24/desGrafica.tex)
+File: graficas/3_24.pdf Graphic file (type QTm)
+ <use  "graficas/3_24.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 299--299
+ [][] 
+ []
+
+(./3_24/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.26' on input line 312.
+[26]
+Package hyperref Info: Anchor `section*.37' on input line 312.
+Package hyperref Info: bookmark on input line 312:
+(hyperref)             thecounter {2.24}
+(hyperref)             text {\numberline {\thesection } Acceso a agua mejorada}
+
+(hyperref)             reference {section*.37}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 312--312
+[][] 
+ []
+
+(./3_25/tituloGrafica.tex) (./3_25/desGrafica.tex) (./graficas/3_25.tex)
+(./3_25/fuente.tex) (./3_25/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 312--312
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 312--312
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.27' on input line 325.
+[27]
+Package hyperref Info: Anchor `section*.38' on input line 325.
+Package hyperref Info: bookmark on input line 325:
+(hyperref)             thecounter {2.25}
+(hyperref)             text {\numberline {\thesection } Acceso a agua mejorada 
+por área de residencia}
+(hyperref)             reference {section*.38}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 325--325
+[][] 
+ []
+
+(./3_26/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 325--325
+[]|[]| 
+ []
+
+(./3_26/tituloGrafica.tex) (./3_26/desGrafica.tex) (./graficas/3_26.tex)
+(./3_26/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 325--325
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 325--325
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.39' on input line 338.
+Package hyperref Info: bookmark on input line 338:
+(hyperref)             thecounter {2.26}
+(hyperref)             text {\numberline {\thesection } Acceso a agua mejorada 
+en los departamentos}
+(hyperref)             reference {section*.39}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 338--338
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+
+ []
+
+(./3_27/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--338
+
+ []
+
+(./3_27/tituloGrafica.tex) (./3_27/desGrafica.tex)
+File: graficas/3_27.pdf Graphic file (type QTm)
+ <use  "graficas/3_27.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 338--338
+ [][] 
+ []
+
+(./3_27/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.28' on input line 351.
+[28]
+Package hyperref Info: Anchor `section*.40' on input line 351.
+Package hyperref Info: bookmark on input line 351:
+(hyperref)             thecounter {2.27}
+(hyperref)             text {\numberline {\thesection } Acceso a saneamiento me
+jorado}
+(hyperref)             reference {section*.40}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 351--351
+[][] 
+ []
+
+(./3_28/tituloGrafica.tex) (./3_28/desGrafica.tex) (./graficas/3_28.tex)
+(./3_28/fuente.tex) (./3_28/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 351--351
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 351--351
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.29' on input line 364.
+[29]
+Package hyperref Info: Anchor `section*.41' on input line 364.
+Package hyperref Info: bookmark on input line 364:
+(hyperref)             thecounter {2.28}
+(hyperref)             text {\numberline {\thesection } Acceso a saneamiento me
+jorado por área de residencia}
+(hyperref)             reference {section*.41}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 364--364
+[][] 
+ []
+
+(./3_29/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 364--364
+[]|[]| 
+ []
+
+(./3_29/tituloGrafica.tex) (./3_29/desGrafica.tex) (./graficas/3_29.tex)
+(./3_29/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 364--364
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 364--364
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.42' on input line 377.
+Package hyperref Info: bookmark on input line 377:
+(hyperref)             thecounter {2.29}
+(hyperref)             text {\numberline {\thesection } Acceso a saneamiento me
+jorado en los departamentos}
+(hyperref)             reference {section*.42}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 377--377
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--377
+
+ []
+
+(./3_30/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--377
+
+ []
+
+(./3_30/tituloGrafica.tex) (./3_30/desGrafica.tex)
+File: graficas/3_30.pdf Graphic file (type QTm)
+ <use  "graficas/3_30.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 377--377
+ [][] 
+ []
+
+(./3_30/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 377--377
+
+ []
+
+)
+File: contraportada.pdf Graphic file (type QTm)
+ <use  "contraportada.pdf" >
+File: contraportada.pdf Graphic file (type QTm)
+ <use  "contraportada.pdf" >
+File: contraportada.pdf Graphic file (type QTm)
+
+<use  "contraportada.pdf"  page1>
+File: contraportada.pdf Graphic file (type QTm)
+ <use  "contraportada.pdf"  page1>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.30' on input line 31.
+[30]
+File: topodd3.pdf Graphic file (type QTm)
+ <use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.31' on input line 31.
+[31]
+File: contraportada.pdf Graphic file (type QTm)
+ <use  "contraportada.pdf"  page1>
+File: contraportada.pdf Graphic file (type QTm)
+ <use  "contraportada.pdf"  page1>
+File: contraportada.pdf Graphic file (type QTm)
+
+<use  "contraportada.pdf"  page1>
+Package hyperref Info: Anchor `page.32' on input line 31.
+ [32]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
+ (./ENCOVI14PrincipalesResultados.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 35.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 4.02754pt have occurred.
+
+ ) 
 Here is how much of TeX's memory you used:
- 41108 strings out of 493668
- 828595 string characters out of 6150755
- 991206 words of memory out of 5000000
- 43782 multiletter control sequences out of 15000+600000
- 16035 words of font info for 130 fonts, out of 8000000 for 9000
+ 41530 strings out of 493668
+ 836141 string characters out of 6150755
+ 1027500 words of memory out of 5000000
+ 43770 multiletter control sequences out of 15000+600000
+ 17809 words of font info for 149 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 60i,20n,103p,10463b,1339s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on ENCOVI14PrincipalesResultados.pdf (10 pages).
+ 60i,22n,103p,10463b,1341s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on ENCOVI14PrincipalesResultados.pdf (40 pages).

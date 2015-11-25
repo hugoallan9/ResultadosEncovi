@@ -31,13 +31,15 @@ exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_05.tex",g5)
 
 
 
-g8<- graficaCol(ENC3$"3_08", ordenar = F)
-g8 <- etiquetasHorizontales(g8)
-exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_08.tex",g8)
 
 
 g7<- graficaLinea(ENC3$'3_07',rotar = "h", precision = 2) 
 exportarLatex('/mnt/datos/GitHub/ResultadosEncovi/graficas/3_07.tex', g7)  
+
+g8<- graficaCol(ENC3$"3_08", ordenar = F)
+g8 <- etiquetasHorizontales(g8)
+exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_08.tex",g8)
+
 
 g10<- graficaLinea(ENC3$'3_10',rotar = "h", precision = 2) 
 exportarLatex('/mnt/datos/GitHub/ResultadosEncovi/graficas/3_10.tex', g10)  
