@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.9.17)  26 NOV 2015 05:57
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.9.17)  26 NOV 2015 07:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -24,6 +24,18 @@ File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 137.
+
+(/usr/local/texlive/2014/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2014/04/28 v4.01 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
@@ -109,11 +121,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: xetex.def on input line 91.
-
-(/usr/local/texlive/2014/texmf-dist/tex/xelatex/xetex-def/xetex.def
-File: xetex.def 2014/04/28 v4.01 LaTeX color/graphics driver for XeTeX (RRM/JK)
-
-))
+)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
@@ -151,23 +159,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is not detected.
-))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: xetex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-))
+)))
 (/usr/local/texlive/2014/texmf-dist/tex/latex/pdfpages/ppxetex.def
 File: ppxetex.def 2013/08/25 v0.4v Pdfpages driver for XeTeX (AM)
 )
@@ -635,7 +627,23 @@ File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
+)) (/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
 (/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
 (/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
@@ -1616,31 +1624,31 @@ Library (tcolorbox): 'tcbhooks.code.tex' version '3.04'
 (./ENCOVI14PrincipalesResultados.aux)
 \openout1 = `ENCOVI14PrincipalesResultados.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 8.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 9.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 \AtBeginShipoutBox=\box108
 .................................................
 . fontspec info: "setup-math"
@@ -1649,69 +1657,69 @@ LaTeX Font Info:    ... okay on input line 8.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 8.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 8.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 8.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 8.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 8.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 8.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 8.
-LaTeX Font Info:    Redeclaring math accent \check on input line 8.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 8.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 8.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 8.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 8.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 8.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 9.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 9.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 9.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 9.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 9.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 9.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 9.
+LaTeX Font Info:    Redeclaring math accent \check on input line 9.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 9.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 9.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 9.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 9.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 8.
+(Font)              `operators' in the math version `normal' on input line 9.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/OpenSans-CondLight.ttf(0)/m/n on in
-put line 8.
+put line 9.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 8.
+(Font)              `operators' in the math version `bold' on input line 9.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/OpenSans-CondLight.ttf(0)/m/n on i
-nput line 8.
+nput line 9.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/OpenSans-CondLight.ttf(0)/m/n --> EU1/OpenSans-Cond
-Light.ttf(0)/m/n on input line 8.
+Light.ttf(0)/m/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  EU1/OpenSans-CondLight.ttf(0)/m/n --> EU1/OpenSans-Cond
-Light.ttf(0)/m/n on input line 8.
+Light.ttf(0)/m/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/OpenSans-CondLight.ttf(0)/m/it on 
-input line 8.
+input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/OpenSans-CondLight.ttf(0)/bx/n on 
-input line 8.
+input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 8.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 8.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 9.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/OpenSans-CondLight.ttf(0)/m/n --> EU1/OpenSans-Cond
-Light.ttf(0)/bx/n on input line 8.
+Light.ttf(0)/bx/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  EU1/OpenSans-CondLight.ttf(0)/m/n --> EU1/OpenSans-Cond
-Light.ttf(0)/bx/n on input line 8.
+Light.ttf(0)/bx/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/OpenSans-CondLight.ttf(0)/bx/it o
-n input line 8.
+n input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 8.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 8.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 9.
 
 ABD: EveryShipout initializing macros
 (/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
@@ -1756,7 +1764,7 @@ File: siunitx-abbreviations.cfg 2013/07/31 v2.5s siunitx: Abbreviated units
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 8.
+Package hyperref Info: Link coloring OFF on input line 9.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1765,28 +1773,28 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count309
 )
-LaTeX Info: Redefining \ref on input line 8.
-LaTeX Info: Redefining \pageref on input line 8.
-LaTeX Info: Redefining \nameref on input line 8.
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
 
 (./ENCOVI14PrincipalesResultados.out) (./ENCOVI14PrincipalesResultados.out)
 \@outlinefile=\write5
 \openout5 = `ENCOVI14PrincipalesResultados.out'.
 
-Package hyperref Info: Anchor `Doc-Start' on input line 8.
+Package hyperref Info: Anchor `Doc-Start' on input line 9.
 \c__siunitx_mathsf_int=\count310
-LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+LaTeX Font Info:    Try loading font information for U+msa on input line 9.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c__siunitx_mathtt_int=\count311
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 8.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 9.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1812,7 +1820,7 @@ File: portada.pdf Graphic file (type QTm)
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
-Package hyperref Info: Anchor `page.1' on input line 9.
+Package hyperref Info: Anchor `page.1' on input line 10.
 
 [1
 
@@ -1936,64 +1944,64 @@ Package hyperref Info: Reference (link) `section*.42' on input line 87.
 \tf@toc=\write6
 \openout6 = `ENCOVI14PrincipalesResultados.toc'.
 
-Package hyperref Info: Anchor `page.0' on input line 24.
+Package hyperref Info: Anchor `page.0' on input line 25.
  [0]
-Package hyperref Info: Anchor `section*.1' on input line 24.
-Package hyperref Info: bookmark on input line 24:
+Package hyperref Info: Anchor `section*.1' on input line 25.
+Package hyperref Info: bookmark on input line 25:
 (hyperref)             thecounter {1}
 (hyperref)             text {\numberline {\thechapter }Desigualdad}
 (hyperref)             reference {section*.1}
 (hyperref)             toclevel {0}
 (hyperref)             type {toc}.
-LaTeX Font Info:    Calculating math sizes for size <28.90755> on input line 24
+LaTeX Font Info:    Calculating math sizes for size <28.90755> on input line 25
 .
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <28.90755> not available
-(Font)              size <24.88> substituted on input line 24.
+(Font)              size <24.88> substituted on input line 25.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20.23518> not available
-(Font)              size <20.74> substituted on input line 24.
+(Font)              size <20.74> substituted on input line 25.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <28.90755> not available
-(Font)              size <24.88> substituted on input line 24.
+(Font)              size <24.88> substituted on input line 25.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <20.23518> not available
-(Font)              size <20.74> substituted on input line 24.
+(Font)              size <20.74> substituted on input line 25.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <28.90755> not available
-(Font)              size <24.88> substituted on input line 24.
+(Font)              size <24.88> substituted on input line 25.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20.23518> not available
-(Font)              size <20.74> substituted on input line 24.
+(Font)              size <20.74> substituted on input line 25.
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 24--24
+Overfull \hbox (12.0pt too wide) in paragraph at lines 25--25
 []|[]| 
  []
 
 File: fondo-capitulo-no-descripcion.pdf Graphic file (type QTm)
 <use  "fondo-capitulo-no-descripcion.pdf" >
-Overfull \hbox (49.32869pt too wide) in paragraph at lines 24--24
+Overfull \hbox (49.32869pt too wide) in paragraph at lines 25--25
 [][][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
 
  []
 
-Package hyperref Info: Anchor `page.1' on input line 24.
+Package hyperref Info: Anchor `page.1' on input line 25.
 [1
 
 
 ]
-Package hyperref Info: Anchor `page.2' on input line 24.
+Package hyperref Info: Anchor `page.2' on input line 25.
  [2
 
 
@@ -2573,7 +2581,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.9' on input line 26.
+Package hyperref Info: Anchor `page.9' on input line 27.
 [9]
 File: topeven3.pdf Graphic file (type QTm)
  <use  "topeven3.pdf" >
@@ -2587,10 +2595,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.10' on input line 26.
+Package hyperref Info: Anchor `page.10' on input line 27.
 [10]
-Package hyperref Info: Anchor `section*.13' on input line 26.
-Package hyperref Info: bookmark on input line 26:
+Package hyperref Info: Anchor `section*.13' on input line 27.
+Package hyperref Info: bookmark on input line 27:
 (hyperref)             thecounter {2}
 (hyperref)             text {\numberline {\thechapter }Objetivos de Desarrollo 
 del Milenio}
@@ -2598,27 +2606,27 @@ del Milenio}
 (hyperref)             toclevel {0}
 (hyperref)             type {toc}.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 26--26
+Overfull \hbox (12.0pt too wide) in paragraph at lines 27--27
 []|[]| 
  []
 
 File: fondo-capitulo-no-descripcion.pdf Graphic file (type QTm)
 <use  "fondo-capitulo-no-descripcion.pdf" >
-Overfull \hbox (49.32869pt too wide) in paragraph at lines 26--26
+Overfull \hbox (49.32869pt too wide) in paragraph at lines 27--27
 [][][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
 
  []
 
-Package hyperref Info: Anchor `page.11' on input line 26.
+Package hyperref Info: Anchor `page.11' on input line 27.
 [11
 
 
 ]
-Package hyperref Info: Anchor `page.12' on input line 26.
+Package hyperref Info: Anchor `page.12' on input line 27.
  [12
 
 
@@ -3481,6 +3489,16 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 234--234
 
 (./3_19/tituloGrafica.tex) (./3_19/desGrafica.tex) (./graficas/3_19.tex)
 (./3_19/fuente.tex) (./3_19/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--234
+\l_fontspec_font Efectivamente, en la gráfica se advierte
+ []
+
+
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 234--234
  []|[][][]| 
  []
@@ -3560,6 +3578,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--260
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--260
+
+ []
+
 (./3_21/tituloGrafica.tex) (./3_21/desGrafica.tex)
 File: graficas/3_21.pdf Graphic file (type QTm)
  <use  "graficas/3_21.pdf" >
@@ -3604,7 +3627,30 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 273--273
  []
 
 (./3_22/tituloGrafica.tex) (./3_22/desGrafica.tex) (./graficas/3_22.tex)
-(./3_22/fuente.tex) (./3_22/descripcion.tex)
+(./3_22/fuente.tex) (./3_22/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.13' on input line 2.
+Package hyperref Info: Anchor `Hfootnote.13' on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+\l_fontspec_font Para el 2014, la proporción de partos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+ []
+
+)
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 273--273
  []|[][][]| 
  []
@@ -3646,6 +3692,21 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 286--286
  []
 
 (./3_23/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--286
+
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 1--286
+\l_fontspec_font Tanto para el área urbana como para el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--286
+\l_fontspec_font área rural, la mayor proporción fue en
+ []
+
+
 Overfull \hbox (4.51688pt too wide) in paragraph at lines 286--286
 []|[][][]| 
  []
@@ -3679,8 +3740,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--299
 
  []
 
-(./3_24/descripcion.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--299
+(./3_24/descripcion.tex
+Package hyperref Info: Reference (link) `Hfootnote.14' on input line 3.
+Package hyperref Info: Anchor `Hfootnote.14' on input line 3.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--299
 
  []
 
@@ -3964,7 +4028,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.30' on input line 31.
+Package hyperref Info: Anchor `page.30' on input line 32.
 [30]
 File: topodd3.pdf Graphic file (type QTm)
  <use  "topodd3.pdf" >
@@ -3978,7 +4042,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: Anchor `page.31' on input line 31.
+Package hyperref Info: Anchor `page.31' on input line 32.
 [31]
 File: contraportada.pdf Graphic file (type QTm)
  <use  "contraportada.pdf"  page1>
@@ -3992,13 +4056,13 @@ File: contraportada.pdf Graphic file (type QTm)
 File: contraportada.pdf Graphic file (type QTm)
 
 <use  "contraportada.pdf"  page1>
-Package hyperref Info: Anchor `page.32' on input line 31.
+Package hyperref Info: Anchor `page.32' on input line 32.
  [32]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
  (./ENCOVI14PrincipalesResultados.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 35.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 35.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 36.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 36.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -4006,10 +4070,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 39884 strings out of 493734
- 805090 string characters out of 6146348
- 973736 words of memory out of 5000000
- 42080 multiletter control sequences out of 15000+600000
+ 39895 strings out of 493734
+ 805437 string characters out of 6146348
+ 973804 words of memory out of 5000000
+ 42087 multiletter control sequences out of 15000+600000
  17777 words of font info for 145 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  59i,22n,102p,10463b,1338s stack positions out of 5000i,500n,10000p,200000b,80000s
