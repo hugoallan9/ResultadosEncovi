@@ -62,7 +62,7 @@ g14<- graficaCol(ENC3$"3_14", ordenar = F)
 g14 <- etiquetasHorizontales(g14)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_14.tex",g14)
 
-g16<- graficaLinea(ENC3$'3_16',rotar = "h", precision = 2) 
+g16<- graficaLinea(ENC3$'3_16',rotar = "h", precision = 2, inicio = 30, final = 60) 
 exportarLatex('/mnt/datos/GitHub/ResultadosEncovi/graficas/3_16.tex', g16)  
 
 
@@ -70,28 +70,28 @@ g17<- graficaCol(ENC3$"3_17", ordenar = F)
 g17 <- etiquetasHorizontales(g17)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_17.tex",g17)
 
-g19<- graficaLinea(ENC3$"3_19",rotar = "h")
+g19<- graficaLinea(ENC3$"3_19",rotar = "h", inicio = 20, final = 90)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_19.tex",g19)
 
 g20<- graficaCol(ENC3$"3_20", ordenar = F)
 g20 <- etiquetasHorizontales(g20)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_20.tex",g20)
 
-g22<- graficaLinea(ENC3$"3_22",rotar = "h")
+g22<- graficaLinea(ENC3$"3_22",rotar = "h", inicio = 20, final = 65)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_22.tex",g22)
 
 g23<- graficaCol(ENC3$"3_23", ordenar = F)
 g23 <- etiquetasHorizontales(g23)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_23.tex",g23)
 
-g25<- graficaLinea(ENC3$"3_25",rotar = "h")
+g25<- graficaLinea(ENC3$"3_25",rotar = "h", inicio = 65, final= 90)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_25.tex",g25)
 
 g26<- graficaCol(ENC3$"3_26", ordenar = F)
 g26 <- etiquetasHorizontales(g26)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_26.tex",g26)
 
-g28<- graficaLinea(ENC3$"3_28",rotar = "h")
+g28<- graficaLinea(ENC3$"3_28",rotar = "h",inicio = 32, final = 70)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/3_28.tex",g28)
 
 g29<- graficaCol(ENC3$"3_29", ordenar = F)
