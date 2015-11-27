@@ -21,11 +21,11 @@ exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/2_03.tex",g3)
 g4<- graficaLinea(ENC2$"2_04",rotar = "h",  precision = 2,inicio = 0.3, final = 0.8)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/2_04.tex",g4)
 
-g5<- graficaLinea(ENC2$"2_05",rotar = "h", inicio = 0.35, final = 0.95)
+g5<- graficaLinea(ENC2$"2_05",rotar = "h", inicio = 0, final = 4)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/2_05.tex",g5)
 
-g6<- graficaLinea(ENC2$"2_06",rotar = "h")
+g6<- graficaLinea(ENC2$"2_06",rotar = "h", inicio = 40, final = 65)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/2_06.tex",g6)
 
-g7<- graficaLinea(ENC2$"2_07",rotar = "h")
+g7<- graficaLinea(ENC2$"2_07",rotar = "h", inicio = 10, final = 35)
 exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/2_07.tex",g7)
