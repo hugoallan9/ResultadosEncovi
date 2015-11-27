@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  26 NOV 2015 21:38
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  26 NOV 2015 22:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1958,52 +1958,7 @@ Package hyperref Info: Anchor `page.6' on input line 109.
  [6
 
 
-]) (./ENCOVI14PrincipalesResultados.toc
-Package hyperref Info: Reference (link) `section*.1' on input line 4.
-Package hyperref Info: Reference (link) `section*.2' on input line 6.
-Package hyperref Info: Reference (link) `section*.3' on input line 8.
-Package hyperref Info: Reference (link) `section*.4' on input line 10.
-Package hyperref Info: Reference (link) `section*.5' on input line 12.
-Package hyperref Info: Reference (link) `section*.6' on input line 14.
-Package hyperref Info: Reference (link) `section*.7' on input line 16.
-Package hyperref Info: Reference (link) `section*.8' on input line 18.
-Package hyperref Info: Reference (link) `section*.9' on input line 20.
-Package hyperref Info: Reference (link) `section*.10' on input line 22.
-Package hyperref Info: Reference (link) `section*.11' on input line 24.
-Package hyperref Info: Reference (link) `section*.12' on input line 26.
-Package hyperref Info: Reference (link) `section*.13' on input line 29.
-Package hyperref Info: Reference (link) `section*.14' on input line 31.
-Package hyperref Info: Reference (link) `section*.15' on input line 33.
-Package hyperref Info: Reference (link) `section*.16' on input line 35.
-Package hyperref Info: Reference (link) `section*.17' on input line 37.
-Package hyperref Info: Reference (link) `section*.18' on input line 39.
-Package hyperref Info: Reference (link) `section*.19' on input line 41.
-Package hyperref Info: Reference (link) `section*.20' on input line 43.
-Package hyperref Info: Reference (link) `section*.21' on input line 45.
-Package hyperref Info: Reference (link) `section*.22' on input line 47.
-Package hyperref Info: Reference (link) `section*.23' on input line 49.
-Package hyperref Info: Reference (link) `section*.24' on input line 51.
-Package hyperref Info: Reference (link) `section*.25' on input line 53.
-Package hyperref Info: Reference (link) `section*.26' on input line 55.
-Package hyperref Info: Reference (link) `section*.27' on input line 57.
-Package hyperref Info: Reference (link) `section*.28' on input line 59.
-Package hyperref Info: Reference (link) `section*.29' on input line 61.
-Package hyperref Info: Reference (link) `section*.30' on input line 63.
-Package hyperref Info: Reference (link) `section*.31' on input line 65.
-Package hyperref Info: Reference (link) `section*.32' on input line 67.
-Package hyperref Info: Reference (link) `section*.33' on input line 69.
-Package hyperref Info: Reference (link) `section*.34' on input line 71.
-Package hyperref Info: Reference (link) `section*.35' on input line 73.
-Package hyperref Info: Reference (link) `section*.36' on input line 75.
-Package hyperref Info: Reference (link) `section*.37' on input line 77.
-Package hyperref Info: Reference (link) `section*.38' on input line 79.
-Package hyperref Info: Reference (link) `section*.39' on input line 81.
-Package hyperref Info: Reference (link) `section*.40' on input line 83.
-Package hyperref Info: Reference (link) `section*.41' on input line 85.
-Package hyperref Info: Anchor `page.7' on input line 87.
- [7]
-Package hyperref Info: Reference (link) `section*.42' on input line 87.
-)
+]) (./ENCOVI14PrincipalesResultados.toc)
 \tf@toc=\write7
 \openout7 = `ENCOVI14PrincipalesResultados.toc'.
 
@@ -2166,11 +2121,11 @@ l.65  \input{1_05/fuente.tex}}
 
  
 Here is how much of TeX's memory you used:
- 41068 strings out of 493668
- 827382 string characters out of 6150755
- 1019539 words of memory out of 5000000
- 43742 multiletter control sequences out of 15000+600000
+ 41064 strings out of 493668
+ 827305 string characters out of 6150755
+ 1013995 words of memory out of 5000000
+ 43738 multiletter control sequences out of 15000+600000
  11302 words of font info for 100 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 60i,18n,103p,10463b,1342s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on ENCOVI14PrincipalesResultados.pdf (9 pages).
+ 60i,18n,103p,10463b,1368s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on ENCOVI14PrincipalesResultados.pdf (8 pages).
