@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  26 NOV 2015 22:15
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Arch Linux) (preloaded format=xelatex 2015.11.19)  26 NOV 2015 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2104,9 +2104,327 @@ Overfull \hbox (1.90617pt too wide) in paragraph at lines 65--65
 [][] 
  []
 
-(./1_05/tituloGrafica.tex) (./1_05/desGrafica.tex)
 
-! LaTeX Error: File `graficas/1_05.tex' not found.
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+
+ []
+
+(./1_05/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--65
+
+ []
+
+(./1_05/tituloGrafica.tex) (./1_05/desGrafica.tex)
+File: graficas/1_05.pdf Graphic file (type QTm)
+ <use  "graficas/1_05.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 65--65
+ [][] 
+ []
+
+(./1_05/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.2' on input line 78.
+[2]
+Package hyperref Info: Anchor `section*.6' on input line 78.
+Package hyperref Info: bookmark on input line 78:
+(hyperref)             thecounter {0.6}
+(hyperref)             text {\numberline {\thesection } Línea de pobreza extrem
+a}
+(hyperref)             reference {section*.6}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 78--78
+[][] 
+ []
+
+(./1_06/tituloGrafica.tex) (./1_06/desGrafica.tex) (./graficas/1_06.tex)
+(./1_06/fuente.tex) (./1_06/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 78--78
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 78--78
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.3' on input line 91.
+[3]
+Package hyperref Info: Anchor `section*.7' on input line 91.
+Package hyperref Info: bookmark on input line 91:
+(hyperref)             thecounter {0.7}
+(hyperref)             text {\numberline {\thesection } Pobreza extrema}
+(hyperref)             reference {section*.7}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 91--91
+[][] 
+ []
+
+(./1_07/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 91--91
+[]|[]| 
+ []
+
+(./1_07/tituloGrafica.tex) (./1_07/desGrafica.tex) (./graficas/1_07.tex)
+(./1_07/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 91--91
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 91--91
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.8' on input line 104.
+Package hyperref Info: bookmark on input line 104:
+(hyperref)             thecounter {0.8}
+(hyperref)             text {\numberline {\thesection } Pobreza extrema por etn
+icidad}
+(hyperref)             reference {section*.8}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 104--104
+[][] 
+ []
+
+(./1_08/tituloGrafica.tex) (./1_08/desGrafica.tex) (./graficas/1_08.tex)
+(./1_08/fuente.tex) (./1_08/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 104--104
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 104--104
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.4' on input line 117.
+[4]
+Package hyperref Info: Anchor `section*.9' on input line 117.
+Package hyperref Info: bookmark on input line 117:
+(hyperref)             thecounter {0.9}
+(hyperref)             text {\numberline {\thesection } Pobreza extrema por áre
+a de residencia}
+(hyperref)             reference {section*.9}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 117--117
+[][] 
+ []
+
+(./1_09/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 117--117
+[]|[]| 
+ []
+
+(./1_09/tituloGrafica.tex) (./1_09/desGrafica.tex) (./graficas/1_09.tex)
+(./1_09/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 117--117
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 117--117
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.10' on input line 130.
+Package hyperref Info: bookmark on input line 130:
+(hyperref)             thecounter {0.10}
+(hyperref)             text {\numberline {\thesection } Pobreza extrema en los 
+departamentos}
+(hyperref)             reference {section*.10}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 130--130
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+
+ []
+
+(./1_10/descripcion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--130
+
+ []
+
+(./1_10/tituloGrafica.tex) (./1_10/desGrafica.tex)
+File: graficas/1_10.pdf Graphic file (type QTm)
+ <use  "graficas/1_10.pdf" >
+Overfull \hbox (2.69052pt too wide) in paragraph at lines 130--130
+ [][] 
+ []
+
+(./1_10/fuente.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topodd3.pdf Graphic file (type QTm)
+
+<use  "topodd3.pdf" >
+Overfull \hbox (54.2025pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.5' on input line 143.
+[5]
+Package hyperref Info: Anchor `section*.11' on input line 143.
+Package hyperref Info: bookmark on input line 143:
+(hyperref)             thecounter {0.11}
+(hyperref)             text {\numberline {\thesection } Brecha de pobreza total
+}
+(hyperref)             reference {section*.11}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 143--143
+[][] 
+ []
+
+(./1_11/tituloGrafica.tex) (./1_11/desGrafica.tex) (./graficas/1_11.tex)
+(./1_11/fuente.tex) (./1_11/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 143--143
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 143--143
+[]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: topeven3.pdf Graphic file (type QTm)
+
+<use  "topeven3.pdf" >
+Overfull \hbox (90.3375pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 74.41222pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package hyperref Info: Anchor `page.6' on input line 156.
+[6]
+Package hyperref Info: Anchor `section*.12' on input line 156.
+Package hyperref Info: bookmark on input line 156:
+(hyperref)             thecounter {0.12}
+(hyperref)             text {\numberline {\thesection } Brecha de pobreza extre
+ma}
+(hyperref)             reference {section*.12}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 156--156
+[][] 
+ []
+
+(./1_12/descripcion.tex)
+Overfull \hbox (4.51688pt too wide) in paragraph at lines 156--156
+[]|[]| 
+ []
+
+(./1_12/tituloGrafica.tex) (./1_12/desGrafica.tex) (./graficas/1_12.tex)
+(./1_12/fuente.tex)
+Overfull \hbox (11.72424pt too wide) in paragraph at lines 156--156
+[][] 
+ []
+
+
+Overfull \hbox (1.37164pt too wide) in paragraph at lines 156--156
+[]  
+ []
+
+Package hyperref Info: Anchor `section*.13' on input line 169.
+Package hyperref Info: bookmark on input line 169:
+(hyperref)             thecounter {0.13}
+(hyperref)             text {\numberline {\thesection } Brecha de la pobreza to
+tal en los departamentos}
+(hyperref)             reference {section*.13}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+
+Overfull \hbox (1.90617pt too wide) in paragraph at lines 169--169
+[][] 
+ []
+
+(./1_13/tituloGrafica.tex) (./1_13/desGrafica.tex)
+
+! LaTeX Error: File `graficas/1_13.tex' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: tex)
@@ -2115,17 +2433,17 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.65  \input{1_05/fuente.tex}}
-                               %^^M
+l.169  \input{1_13/fuente.tex}}
+                                %^^M
 *** (cannot \read from terminal in nonstop modes)
 
  
 Here is how much of TeX's memory you used:
- 41064 strings out of 493668
- 827305 string characters out of 6150755
- 1013995 words of memory out of 5000000
- 43738 multiletter control sequences out of 15000+600000
+ 41160 strings out of 493668
+ 828952 string characters out of 6150755
+ 1012215 words of memory out of 5000000
+ 43742 multiletter control sequences out of 15000+600000
  11302 words of font info for 100 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  60i,18n,103p,10463b,1368s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on ENCOVI14PrincipalesResultados.pdf (8 pages).
+Output written on ENCOVI14PrincipalesResultados.pdf (13 pages).
