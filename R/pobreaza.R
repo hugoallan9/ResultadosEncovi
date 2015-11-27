@@ -29,30 +29,33 @@ g5<- graficaColCategorias(ENC1$"1_04",etiquetasCategorias = "A",
 
 
 
-g11<- graficaLinea(ENC1$"1_06",rotar = "h")
-exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_06.tex",g11)
+g11<- graficaLinea(ENC1$"1_08",rotar = "h")
+exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_08.tex",g11)
 
 
-g3<- graficaLinea(ENC1$"1_07",rotar = "h")
-exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_07.tex",g3)
+g3<- graficaLinea(ENC1$"1_09",rotar = "h")
+exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_09.tex",g3)
 
 
-g6<- graficaColCategorias(ENC1$"1_08",etiquetasCategorias = "A",
-                          ruta = "/mnt/datos/GitHub/ResultadosEncovi/graficas/1_08.tex",etiquetas = "h")
+g6<- graficaColCategorias(ENC1$"1_10",etiquetasCategorias = "A",
+                          ruta = "/mnt/datos/GitHub/ResultadosEncovi/graficas/1_10.tex",etiquetas = "h")
 
-g7<- graficaColCategorias(ENC1$"1_09",etiquetasCategorias = "A",
-                          ruta = "/mnt/datos/GitHub/ResultadosEncovi/graficas/1_09.tex",etiquetas = "h")
-
-
-
-
-g8<- graficaLinea(ENC1$"1_11",rotar = "h")
-exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_11.tex",g8)
-
-g9<- graficaLinea(ENC1$"1_12",rotar = "h")
-exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_12.tex",g9)
+g7<- graficaColCategorias(ENC1$"1_11",etiquetasCategorias = "A",
+                          ruta = "/mnt/datos/GitHub/ResultadosEncovi/graficas/1_11.tex",etiquetas = "h")
 
 
 
-g10<- graficaLinea(ENC1$"1_14",rotar = "h")
-exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_14.tex",g10)
+
+g8<- graficaLinea(ENC1$"1_13",rotar = "h")
+exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_13.tex",g8)
+
+g9<- graficaLinea(ENC1$"1_15",rotar = "h")
+exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_15.tex",g9)
+
+
+
+g10<- graficaLinea(ENC1$"1_16",rotar = "h")
+exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_16.tex",g10)
+
+g10<- graficaLinea(ENC1$"1_18",rotar = "h")
+exportarLatex("/mnt/datos/GitHub/ResultadosEncovi/graficas/1_18.tex",g10)

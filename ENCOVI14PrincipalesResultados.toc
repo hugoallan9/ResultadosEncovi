@@ -13,109 +13,115 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.5\hfil } Pobreza total en los departamentos 2006}{5}{section*.6}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Línea de pobreza extrema}{6}{section*.7}
+\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Pobreza total en los departamentos 2014}{6}{section*.7}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.7\hfil } Pobreza extrema}{6}{section*.8}
+\contentsline {section}{\hbox to\@tempdima {1.7\hfil } Aumento de la pobreza}{7}{section*.8}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.8\hfil } Pobreza extrema por etnicidad}{7}{section*.9}
+\contentsline {section}{\hbox to\@tempdima {1.8\hfil } Línea de pobreza extrema}{8}{section*.9}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.9\hfil } Pobreza extrema por área de residencia}{7}{section*.10}
+\contentsline {section}{\hbox to\@tempdima {1.9\hfil } Pobreza extrema}{8}{section*.10}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.10\hfil } Pobreza extrema en los departamentos}{8}{section*.11}
+\contentsline {section}{\hbox to\@tempdima {1.10\hfil } Pobreza extrema por etnicidad}{9}{section*.11}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.11\hfil } Brecha de pobreza total}{9}{section*.12}
+\contentsline {section}{\hbox to\@tempdima {1.11\hfil } Pobreza extrema por área de residencia}{9}{section*.12}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.12\hfil } Brecha de pobreza extrema}{9}{section*.13}
+\contentsline {section}{\hbox to\@tempdima {1.12\hfil } Pobreza extrema en los departamentos}{10}{section*.13}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.13\hfil } Brecha de la pobreza total en los departamentos}{10}{section*.14}
+\contentsline {section}{\hbox to\@tempdima {1.13\hfil } Brecha de pobreza total}{11}{section*.14}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.14\hfil } Severidad de la pobreza}{11}{section*.15}
+\contentsline {section}{\hbox to\@tempdima {1.14\hfil } Brecha de pobreza extrema}{11}{section*.15}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.15\hfil } Severidad de la pobreza total en los departamentos}{12}{section*.16}
+\contentsline {section}{\hbox to\@tempdima {1.15\hfil } Brecha de la pobreza total en los departamentos}{12}{section*.16}
 \thispagestyle {empty}
-\addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {2\hfil }Desigualdad}{13}{section*.17}
-\color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {2.1\hfil } Desigualdad según el coeficiente de Gini}{15}{section*.18}
+\contentsline {section}{\hbox to\@tempdima {1.16\hfil } Severidad de la pobreza}{13}{section*.17}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.2\hfil } Desigualdad según el índice de Atkinson con $\varepsilon =1$}{15}{section*.19}
+\contentsline {section}{\hbox to\@tempdima {1.17\hfil } Severidad de la pobreza total en los departamentos}{14}{section*.18}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.3\hfil } Desigualdad según el índice de Atkinson con $\varepsilon =2$}{16}{section*.20}
-\thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.4\hfil } Desigualdad según el índice de Theil}{16}{section*.21}
-\thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.5\hfil } Participación del quintil más bajo}{17}{section*.22}
-\thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.6\hfil } Participación del quintil más alto}{17}{section*.23}
-\thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.7\hfil } Relación de ingresos del quintil más alto y más bajo}{18}{section*.24}
-\thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.8\hfil } Desigualdad en los departamentos según el coeficiente de Gini }{19}{section*.25}
-\thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.9\hfil } Desigualdad en los departamentos según el índice de Atkinson con $\varepsilon = 1$}{20}{section*.26}
-\thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.10\hfil } Desigualdad en los departamentos según el índice de Atkinson con $\varepsilon = 2$}{21}{section*.27}
-\thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {2.11\hfil } Desigualdad en los departamentos según el índice de Theil}{22}{section*.28}
+\contentsline {section}{\hbox to\@tempdima {1.18\hfil } Pobreza en niñños y adolescentes}{15}{section*.19}
 \thispagestyle {empty}
 \addvspace {0.6\baselineskip }\color {color1}
-\contentsline {chapter}{\hbox to\@tempdima {3\hfil }Objetivos de Desarrollo del Milenio}{23}{section*.29}
+\contentsline {chapter}{\hbox to\@tempdima {2\hfil }Desigualdad}{17}{section*.20}
 \color {black}\vskip 0.2\baselineskip \relax 
-\contentsline {section}{\hbox to\@tempdima {3.1\hfil } Población con gastos inferiores a la línea de pobreza extrema}{25}{section*.30}
+\contentsline {section}{\hbox to\@tempdima {2.1\hfil } Desigualdad según el coeficiente de Gini}{19}{section*.21}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.2\hfil } Población con gastos inferiores a la línea de pobreza extrema por área de residencia}{25}{section*.31}
+\contentsline {section}{\hbox to\@tempdima {2.2\hfil } Desigualdad según el índice de Atkinson con $\varepsilon =1$}{19}{section*.22}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.3\hfil } Población con gastos inferiores a la línea de pobreza extrema en los departamentos}{26}{section*.32}
+\contentsline {section}{\hbox to\@tempdima {2.3\hfil } Desigualdad según el índice de Atkinson con $\varepsilon =2$}{20}{section*.23}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.4\hfil } Consumo Nacional de la quinta parte de la población más pobre}{27}{section*.33}
+\contentsline {section}{\hbox to\@tempdima {2.4\hfil } Desigualdad según el índice de Theil}{20}{section*.24}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.5\hfil } Consumo Nacional del quintil más pobre por área de residencia}{27}{section*.34}
+\contentsline {section}{\hbox to\@tempdima {2.5\hfil } Participación del quintil más bajo}{21}{section*.25}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.6\hfil } Empleo pleno y productivo}{28}{section*.35}
+\contentsline {section}{\hbox to\@tempdima {2.6\hfil } Participación del quintil más alto}{21}{section*.26}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.7\hfil } Empleo pleno y productivo por área de residencia}{28}{section*.36}
+\contentsline {section}{\hbox to\@tempdima {2.7\hfil } Relación de ingresos del quintil más alto y más bajo}{22}{section*.27}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.8\hfil } Empleo pleno y productivo en los departamentos}{29}{section*.37}
+\contentsline {section}{\hbox to\@tempdima {2.8\hfil } Desigualdad en los departamentos según el coeficiente de Gini }{23}{section*.28}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.9\hfil } Población ocupada no asalariada}{30}{section*.38}
+\contentsline {section}{\hbox to\@tempdima {2.9\hfil } Desigualdad en los departamentos según el índice de Atkinson con $\varepsilon = 1$}{24}{section*.29}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.10\hfil } Población ocupada no asalariada por área de residencia}{30}{section*.39}
+\contentsline {section}{\hbox to\@tempdima {2.10\hfil } Desigualdad en los departamentos según el índice de Atkinson con $\varepsilon = 2$}{25}{section*.30}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.11\hfil } Población ocupada no asalariada en los departamentos}{31}{section*.40}
+\contentsline {section}{\hbox to\@tempdima {2.11\hfil } Desigualdad en los departamentos según el índice de Theil}{26}{section*.31}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.12\hfil } Alfabetismo en jóvenes}{32}{section*.41}
+\addvspace {0.6\baselineskip }\color {color1}
+\contentsline {chapter}{\hbox to\@tempdima {3\hfil }Objetivos de Desarrollo del Milenio}{27}{section*.32}
+\color {black}\vskip 0.2\baselineskip \relax 
+\contentsline {section}{\hbox to\@tempdima {3.1\hfil } Población con gastos inferiores a la línea de pobreza extrema}{29}{section*.33}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.13\hfil } Alfabetismo en jóvenes por área de residencia}{32}{section*.42}
+\contentsline {section}{\hbox to\@tempdima {3.2\hfil } Población con gastos inferiores a la línea de pobreza extrema por área de residencia}{29}{section*.34}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.14\hfil } Alfabetismo en jóvenes en los departamentos}{33}{section*.43}
+\contentsline {section}{\hbox to\@tempdima {3.3\hfil } Población con gastos inferiores a la línea de pobreza extrema en los departamentos}{30}{section*.35}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.15\hfil } Mujeres empleadas remuneradas en el sector no agrícola}{34}{section*.44}
+\contentsline {section}{\hbox to\@tempdima {3.4\hfil } Consumo Nacional de la quinta parte de la población más pobre}{31}{section*.36}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.16\hfil } Mujeres empleadas remuneradas en el sector no agrícola por área de residencia}{34}{section*.45}
+\contentsline {section}{\hbox to\@tempdima {3.5\hfil } Consumo Nacional del quintil más pobre por área de residencia}{31}{section*.37}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.17\hfil } Mujeres empleadas remuneradas en el sector no agrícola}{35}{section*.46}
+\contentsline {section}{\hbox to\@tempdima {3.6\hfil } Empleo pleno y productivo}{32}{section*.38}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.18\hfil } Partos con asistencia de personal de salud }{36}{section*.47}
+\contentsline {section}{\hbox to\@tempdima {3.7\hfil } Empleo pleno y productivo por área de residencia}{32}{section*.39}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.19\hfil } Partos con asistencia de personal de salud por área de residencia}{36}{section*.48}
+\contentsline {section}{\hbox to\@tempdima {3.8\hfil } Empleo pleno y productivo en los departamentos}{33}{section*.40}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.20\hfil } Partos con asistencia de personal de salud en los departamentos}{37}{section*.49}
+\contentsline {section}{\hbox to\@tempdima {3.9\hfil } Población ocupada no asalariada}{34}{section*.41}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.21\hfil } Atención del parto en centros públicos}{38}{section*.50}
+\contentsline {section}{\hbox to\@tempdima {3.10\hfil } Población ocupada no asalariada por área de residencia}{34}{section*.42}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.22\hfil } Atención del parto en centros públicos por área de residencia}{38}{section*.51}
+\contentsline {section}{\hbox to\@tempdima {3.11\hfil } Población ocupada no asalariada en los departamentos}{35}{section*.43}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.23\hfil } Atención del parto en centros públicos en los departamentos}{39}{section*.52}
+\contentsline {section}{\hbox to\@tempdima {3.12\hfil } Alfabetismo en jóvenes}{36}{section*.44}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.24\hfil } Acceso a agua mejorada}{40}{section*.53}
+\contentsline {section}{\hbox to\@tempdima {3.13\hfil } Alfabetismo en jóvenes por área de residencia}{36}{section*.45}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.25\hfil } Acceso a agua mejorada por área de residencia}{40}{section*.54}
+\contentsline {section}{\hbox to\@tempdima {3.14\hfil } Alfabetismo en jóvenes en los departamentos}{37}{section*.46}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.26\hfil } Acceso a agua mejorada en los departamentos}{41}{section*.55}
+\contentsline {section}{\hbox to\@tempdima {3.15\hfil } Mujeres empleadas remuneradas en el sector no agrícola}{38}{section*.47}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.27\hfil } Acceso a saneamiento mejorado}{42}{section*.56}
+\contentsline {section}{\hbox to\@tempdima {3.16\hfil } Mujeres empleadas remuneradas en el sector no agrícola por área de residencia}{38}{section*.48}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.28\hfil } Acceso a saneamiento mejorado por área de residencia}{42}{section*.57}
+\contentsline {section}{\hbox to\@tempdima {3.17\hfil } Mujeres empleadas remuneradas en el sector no agrícola}{39}{section*.49}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {3.29\hfil } Acceso a saneamiento mejorado en los departamentos}{43}{section*.58}
+\contentsline {section}{\hbox to\@tempdima {3.18\hfil } Partos con asistencia de personal de salud }{40}{section*.50}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.19\hfil } Partos con asistencia de personal de salud por área de residencia}{40}{section*.51}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.20\hfil } Partos con asistencia de personal de salud en los departamentos}{41}{section*.52}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.21\hfil } Atención del parto en centros públicos}{42}{section*.53}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.22\hfil } Atención del parto en centros públicos por área de residencia}{42}{section*.54}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.23\hfil } Atención del parto en centros públicos en los departamentos}{43}{section*.55}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.24\hfil } Acceso a agua mejorada}{44}{section*.56}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.25\hfil } Acceso a agua mejorada por área de residencia}{44}{section*.57}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.26\hfil } Acceso a agua mejorada en los departamentos}{45}{section*.58}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.27\hfil } Acceso a saneamiento mejorado}{46}{section*.59}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.28\hfil } Acceso a saneamiento mejorado por área de residencia}{46}{section*.60}
+\thispagestyle {empty}
+\contentsline {section}{\hbox to\@tempdima {3.29\hfil } Acceso a saneamiento mejorado en los departamentos}{47}{section*.61}
 \thispagestyle {empty}
