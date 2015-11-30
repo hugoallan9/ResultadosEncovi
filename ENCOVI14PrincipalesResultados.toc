@@ -11,11 +11,11 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.4\hfil } Pobreza total por área de residencia}{4}{section*.5}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.5\hfil } Pobreza total en los departamentos 2006}{5}{section*.6}
+\contentsline {section}{\hbox to\@tempdima {1.5\hfil } Pobreza total en los departamentos en 2006}{5}{section*.6}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Pobreza total en los departamentos 2014}{6}{section*.7}
+\contentsline {section}{\hbox to\@tempdima {1.6\hfil } Pobreza total en los departamentos en 2014}{6}{section*.7}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.7\hfil } Aumento de la pobreza}{7}{section*.8}
+\contentsline {section}{\hbox to\@tempdima {1.7\hfil } Cambio de la pobreza total }{7}{section*.8}
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.8\hfil } Línea de pobreza extrema}{8}{section*.9}
 \thispagestyle {empty}
@@ -37,7 +37,7 @@
 \thispagestyle {empty}
 \contentsline {section}{\hbox to\@tempdima {1.17\hfil } Severidad de la pobreza total en los departamentos}{14}{section*.18}
 \thispagestyle {empty}
-\contentsline {section}{\hbox to\@tempdima {1.18\hfil } Pobreza en niñños y adolescentes}{15}{section*.19}
+\contentsline {section}{\hbox to\@tempdima {1.18\hfil } Pobreza en niños y adolescentes}{15}{section*.19}
 \thispagestyle {empty}
 \addvspace {0.6\baselineskip }\color {color1}
 \contentsline {chapter}{\hbox to\@tempdima {2\hfil }Desigualdad}{17}{section*.20}
