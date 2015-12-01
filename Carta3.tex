@@ -162,18 +162,18 @@ BoldItalicFont = OpenSans-CondLightItalic.ttf ]{OpenSans-CondLight.ttf}
 \makeatother
 
 \newcounter{numllamada}
-\newcounter{numtextollamada}
+\newcounter{numtextollamada[*]}
 \setcounter{numllamada}{0}
-\setcounter{numtextollamada}{0}
+\setcounter{numtextollamada[*]}{0}
 
 
 \newcommand{\llamada}[1][\thenumllamada]{\stepcounter{numllamada}\begingroup\setcounter{mpfootnote}{#1}\renewcommand\thefootnote\thempfootnote$\hspace{0.2ex}$\footnotemark\endgroup\markerspace}
 
-\newcommand{\notita}[2][\thenumtextollamada]{\stepcounter{numtextollamada}\stepcounter{numllamada}$\hspace{0.2ex}$\footnote[#1]{#2}}
+\newcommand{\notita}[2][\thenumtextollamada[*]]{\stepcounter{numtextollamada[*]}\stepcounter{numllamada}$\hspace{0.2ex}$\footnote[#1]{#2}}
 
 
-\newcommand{\textollamada}[2][\thenumtextollamada]{%
-\ifthenelse{\equal{#1}{*}}{\begingroup\renewcommand\thefootnote\thempfootnote\footnotetext[0]{#2\\[-1.7ex]}\endgroup}{\stepcounter{numtextollamada}\begingroup\renewcommand\thefootnote\thempfootnote\footnotetext[#1]{#2}\endgroup}
+\newcommand{\textollamada[*]}[2][\thenumtextollamada[*]]{%
+\ifthenelse{\equal{#1}{*}}{\begingroup\renewcommand\thefootnote\thempfootnote\footnotetext[0]{#2\\[-1.7ex]}\endgroup}{\stepcounter{numtextollamada[*]}\begingroup\renewcommand\thefootnote\thempfootnote\footnotetext[#1]{#2}\endgroup}
 }
 
 %redefinición de footnote

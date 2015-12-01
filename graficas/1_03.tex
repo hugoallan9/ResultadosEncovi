@@ -1,6 +1,6 @@
-% Created by tikzDevice version 0.7.0 on 2015-11-27 12:28:14
+% Created by tikzDevice version 0.9 on 2015-12-01 14:57:19
 % !TEX encoding = UTF-8 Unicode
-\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+\definecolor{fillColor}{RGB}{255,255,255}
 \path[use as bounding box,fill=fillColor,fill opacity=0.00] (0,0) rectangle (289.08,198.74);
 \begin{scope}
 \path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
@@ -20,34 +20,33 @@
 
 \path[] (236.21, 20.62) --
 	(236.21,172.42);
-\definecolor[named]{drawColor}{rgb}{0.00,0.00,1.00}
-\definecolor[named]{fillColor}{rgb}{0.00,0.00,1.00}
+\definecolor{drawColor}{RGB}{0,0,255}
+\definecolor{fillColor}{RGB}{0,0,255}
 
 \path[draw=drawColor,line width= 0.6pt,line join=round,fill=fillColor] ( 26.94, 20.62) rectangle ( 53.37,168.70);
-\definecolor[named]{drawColor}{rgb}{0.62,0.73,1.00}
-\definecolor[named]{fillColor}{rgb}{0.62,0.73,1.00}
+\definecolor{drawColor}{RGB}{157,187,255}
+\definecolor{fillColor}{RGB}{157,187,255}
 
 \path[draw=drawColor,line width= 0.6pt,line join=round,fill=fillColor] ( 66.59, 20.62) rectangle ( 93.02,100.90);
-\definecolor[named]{drawColor}{rgb}{0.00,0.00,1.00}
-\definecolor[named]{fillColor}{rgb}{0.00,0.00,1.00}
+\definecolor{drawColor}{RGB}{0,0,255}
+\definecolor{fillColor}{RGB}{0,0,255}
 
 \path[draw=drawColor,line width= 0.6pt,line join=round,fill=fillColor] (115.05, 20.62) rectangle (141.49,164.31);
-\definecolor[named]{drawColor}{rgb}{0.62,0.73,1.00}
-\definecolor[named]{fillColor}{rgb}{0.62,0.73,1.00}
+\definecolor{drawColor}{RGB}{157,187,255}
+\definecolor{fillColor}{RGB}{157,187,255}
 
 \path[draw=drawColor,line width= 0.6pt,line join=round,fill=fillColor] (154.71, 20.62) rectangle (181.14, 90.23);
-\definecolor[named]{drawColor}{rgb}{0.00,0.00,1.00}
-\definecolor[named]{fillColor}{rgb}{0.00,0.00,1.00}
+\definecolor{drawColor}{RGB}{0,0,255}
+\definecolor{fillColor}{RGB}{0,0,255}
 
 \path[draw=drawColor,line width= 0.6pt,line join=round,fill=fillColor] (203.17, 20.62) rectangle (229.60,172.42);
-\definecolor[named]{drawColor}{rgb}{0.62,0.73,1.00}
-\definecolor[named]{fillColor}{rgb}{0.62,0.73,1.00}
+\definecolor{drawColor}{RGB}{157,187,255}
+\definecolor{fillColor}{RGB}{157,187,255}
 
 \path[draw=drawColor,line width= 0.6pt,line join=round,fill=fillColor] (242.82, 20.62) rectangle (269.25,109.86);
-\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
-\definecolor[named]{fillColor}{rgb}{0.00,0.00,0.00}
+\definecolor{drawColor}{RGB}{0,0,0}
 
-\path[draw=drawColor,line width= 0.6pt,line join=round,fill=fillColor] (  7.11, 20.62) -- (289.08, 20.62);
+\path[draw=drawColor,line width= 0.6pt,line join=round] (  7.11, 20.62) -- (289.08, 20.62);
 
 \node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.82] at ( 40.16,171.92) {77.3};
 
@@ -89,7 +88,7 @@
 \end{scope}
 \begin{scope}
 \path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
-\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+\definecolor{drawColor}{RGB}{0,0,0}
 
 \node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at ( 59.98,  5.69) {2000};
 
@@ -97,6 +96,8 @@
 
 \node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.00] at (236.21,  5.69) {2014};
 \end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (289.08,198.74);
 \coordinate (apoyo) at (55.19,188.79);
 \coordinate (longitudFicticia) at (7.11,9.95);
 \coordinate (longitud) at (7.11,7.11);
@@ -120,3 +121,4 @@ node [xshift=0.3cm,inner sep=0pt, outer sep=0pt,midway,right,scale = 0.9]{Indíg
 \path [fill=none] ($(apoyo)+(desX)$) rectangle ($(apoyo)+(desX)+(longitudFicticia)$)
 node [xshift=0.3cm,inner sep=0pt, outer sep=0pt,midway,right,scale = 0.9]{No indígena};
 \draw [color = ctb2 ,fill=ct2] ( $(apoyo)  + (desY) + (desX) $) rectangle ($(apoyo)+ (desY)+ (desX) +(longitud)$);
+\end{scope}
